@@ -1,0 +1,46 @@
+{
+    "pageOptions" : {
+        "headerImage" : "https://www.svgrepo.com/show/398195/woman-dancing-medium-light-skin-tone.svg",
+        "headerColor" : "#F3F8FE",
+        "headline" : "Nutzungsbedingungen",
+        "subHeading" : "This app should be a nice place to work with",
+        "footerLink" : "Full Terms of Service",
+        "footerLinkURL" : "",
+        "collectionSectionHeader" : "Da sollst du tun",
+        "doNotCollectSectionHeader" : "Das darfst du nicht tun",
+        "sharedSectionHeader" : "TODO",
+        "dataNotSharedSectionHeader" : "TODO"
+    },
+    "collected" : [
+        {
+            "element" : "Sharing Dancing Moves",
+            "why" : "Main thing to do",
+            "class" : "",
+            "moreInfo" : [""]
+        }
+    ],
+    "notCollected" : [
+         {
+            "element" : "Sharing Porn/Violence",
+            "why" : "That's not the sprit of this app.",
+            "class" : "",
+            "moreInfo" : [""]
+        }
+    ],
+    "shared" : [
+        {
+            "element" : "TODO",
+            "why" : "TODO",
+            "class" : "",
+            "moreInfo" : [""]
+        }
+    ],
+    "notShared" : [
+        {
+            "element" : "TODO",
+            "why" : "TODO",
+            "class" : "",
+            "moreInfo" : [""]
+        }
+    ]
+}
