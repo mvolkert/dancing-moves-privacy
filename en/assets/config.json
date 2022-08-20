@@ -13,10 +13,10 @@
     },
     "collected" : [
         {
-            "element" : "Financial information",
-            "why" : "To manage your business.",
+            "element" : "User information",
+            "why" : "To keep track who changed what",
             "class" : "",
-            "moreInfo" : ["Credit, bank, tax, and other financial data you use to stay productive. Only with your permission."]
+            "moreInfo" : ["Username, e-mail address. Only when you edit together with others"]
         }
     ],
     "notCollected" : [
@@ -24,15 +24,15 @@
             "element" : "Location information",
             "why" : "I don't care were you are dancing",
             "class" : "",
-            "moreInfo" : ["Have fun"]
+            "moreInfo" : ["Or do I ? - Maybe there could be a new feature in the future to exchange infos about events."]
         }
     ],
     "shared" : [
         {
-            "element" : "Government entities",
-            "why" : "Only when required by law.",
+            "element" : "User information",
+            "why" : "To keep track who changed what",
             "class" : "",
-            "moreInfo" : ["We share information with <i>government entities</i> <strong>only</strong> when required by law or expressly permitted in an emergency."]
+            "moreInfo" : ["The data is only shared with the persons you are working with."]
         }
     ],
     "notShared" : [
