@@ -3,7 +3,7 @@
         "headerImage" : "https://www.svgrepo.com/show/398195/woman-dancing-medium-light-skin-tone.svg",
         "headerColor" : "#F3F8FE",
         "headline" : "Datenschutzerklärung",
-        "subHeading" : "<b>Ich werden nicht</b>, ohne deine Zustimmung Daten verkaufen, veröffentlichen oder teilen.",
+        "subHeading" : "<b>Ich werde nicht</b>, ohne deine Zustimmung Daten verkaufen, veröffentlichen oder teilen.",
         "footerLink" : "Full Privacy",
         "footerLinkURL" : "",
         "collectionSectionHeader" : "Daten erhoben",
@@ -20,15 +20,27 @@
         }
     ],
     "notCollected" : [
+        {
+            "element" : "Orts Informationen",
+            "why" : "Mich interessiert es nicht wo du tanzt",
+            "class" : "",
+            "moreInfo" : ["Oder vielleicht doch ? - Könnte ein neues feature werden um sich mit Tanzinformationen und Events auszutauschen."]
+        }
     ],
     "shared" : [
         {
             "element" : "Nutzerinformationen",
             "why" : "Um bei gemeinsammer Editierung von Tanzfiguren nachzuvollziehen wer was geändert hat",
             "class" : "",
-            "moreInfo" : ["Die Daten werden nur mit denen geteilt mit denen du zusammenarbeitest. Es gibt keine Zentrale Speicherung"]
+            "moreInfo" : ["Die Daten werden nur mit denen geteilt mit denen du zusammenarbeitest. Es gibt keine zentrale Speicherung"]
         }
     ],
     "notShared" : [
+        {
+            "element" : "Soziale Netzwerke",
+            "why" : "Hab bislang keinen Grund dazu",
+            "class" : "",
+            "moreInfo" : [""]
+        }
     ]
 }

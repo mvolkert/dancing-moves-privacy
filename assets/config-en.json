@@ -1,0 +1,46 @@
+{
+    "pageOptions" : {
+        "headerImage" : "https://www.svgrepo.com/show/398195/woman-dancing-medium-light-skin-tone.svg",
+        "headerColor" : "#F3F8FE",
+        "headline" : "Privacy Policy",
+        "subHeading" : "<b>We will not</b>, without your permission, sell, publish or share information you entrust to us that identifies you or any person.",
+        "footerLink" : "Full Privacy",
+        "footerLinkURL" : "",
+        "collectionSectionHeader" : "Data collected",
+        "doNotCollectSectionHeader" : "Data not collected",
+        "sharedSectionHeader" : "Data shared",
+        "dataNotSharedSectionHeader" : "Data not shared"
+    },
+    "collected" : [
+        {
+            "element" : "Financial information",
+            "why" : "To manage your business.",
+            "class" : "",
+            "moreInfo" : ["Credit, bank, tax, and other financial data you use to stay productive. Only with your permission."]
+        }
+    ],
+    "notCollected" : [
+         {
+            "element" : "Location information",
+            "why" : "I don't care were you are dancing",
+            "class" : "",
+            "moreInfo" : ["Have fun"]
+        }
+    ],
+    "shared" : [
+        {
+            "element" : "Government entities",
+            "why" : "Only when required by law.",
+            "class" : "",
+            "moreInfo" : ["We share information with <i>government entities</i> <strong>only</strong> when required by law or expressly permitted in an emergency."]
+        }
+    ],
+    "notShared" : [
+        {
+            "element" : "Social networks",
+            "why" : "We <b>do not</b> share your personal information with them.",
+            "class" : "",
+            "moreInfo" : ["<i>Social networks</i> are companies that connect individuals around common interests and facilitate sharing."]
+        }
+    ]
+}
