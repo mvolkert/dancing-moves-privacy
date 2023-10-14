@@ -37,8 +37,7 @@
             "element" : "Google Tables",
             "why" : "To save and share with others.",
             "class" : "",
-            "moreInfo" : ["Google spreadsheets are used to save the data the user adds in the app.
-In that way the data can be accessed across plattforms and shared with others. Without having a central place to store the data. You can watch an introduction video here: https://youtu.be/QeunpMUseZ8"]
+            "moreInfo" : ["Google spreadsheets are used to save the data the user adds in the app. In that way the data can be accessed across plattforms and shared with others. Without having a central place to store the data. You can watch an introduction video here: https://youtu.be/QeunpMUseZ8"]
         }
     ],
     "notShared" : [
