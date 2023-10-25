@@ -45,7 +45,7 @@
             "why": "To save and share with others. Alteratively you can you login to my central database (future feature)",
             "class": "",
             "moreInfo": [
-                "Data is saved in a Google Table. You can create a google Table of your own via the app and share it with users or use my main database, if I give you access to."
+                "Google spreadsheets are used to save the data the user adds in the app. In that way the data can be accessed across plattforms and shared with others without having a central place to store the data. You can watch an introduction video here: https://youtu.be/QeunpMUseZ8"
             ]
         }
     ],
