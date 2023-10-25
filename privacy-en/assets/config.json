@@ -1,56 +1,70 @@
 {
-    "pageOptions" : {
-        "headerImage" : "https://www.svgrepo.com/show/398195/woman-dancing-medium-light-skin-tone.svg",
-        "headerColor" : "#F3F8FE",
-        "headline" : "Privacy Policy",
-        "subHeading" : "<b>We will not</b>, without your permission, sell, publish or share information you entrust to us that identifies you or any person.",
-        "footerLink" : "Full Privacy",
-        "footerLinkURL" : "",
-        "collectionSectionHeader" : "Data collected",
-        "doNotCollectSectionHeader" : "Data not collected",
-        "sharedSectionHeader" : "Data shared",
-        "dataNotSharedSectionHeader" : "Data not shared or changed"
+    "pageOptions": {
+        "headerImage": "https://www.svgrepo.com/show/398195/woman-dancing-medium-light-skin-tone.svg",
+        "headerColor": "#F3F8FE",
+        "headline": "Privacy Policy",
+        "subHeading": "I'm Marco Volkert a Developer and Dancer. I created the app for my own usage, but It grow bigger and I eventually decided to give also others the opportunity to use it. <b>I will not</b>, without your permission, sell, publish or share information you entrust to me that identifies you or any person.",
+        "footerLink": "Full Privacy",
+        "footerLinkURL": "",
+        "collectionSectionHeader": "Data collected",
+        "doNotCollectSectionHeader": "Data not collected",
+        "sharedSectionHeader": "Data shared",
+        "dataNotSharedSectionHeader": "Data not shared or changed"
     },
-    "collected" : [
+    "collected": [
         {
-            "element" : "User information",
-            "why" : "To keep track who changed what",
-            "class" : "",
-            "moreInfo" : ["Username, e-mail address. Only when you edit together with others"]
+            "element": "User information",
+            "why": "To keep track who changed what",
+            "class": "",
+            "moreInfo": [
+                "Username, e-mail address. Only when you edit together with others."
+            ]
         }
     ],
-    "notCollected" : [
-         {
-            "element" : "Location information",
-            "why" : "I don't care were you are dancing",
-            "class" : "",
-            "moreInfo" : ["Or do I ? - Maybe there could be a new feature in the future to exchange infos about events."]
+    "notCollected": [
+        {
+            "element": "Location information",
+            "why": "I don't care were you are dancing",
+            "class": "",
+            "moreInfo": [
+                "Or do I ? - Maybe there could be a new feature in the future to exchange infos about events."
+            ]
         }
     ],
-    "shared" : [
+    "shared": [
         {
-            "element" : "User information",
-            "why" : "To keep track who changed what",
-            "class" : "",
-            "moreInfo" : ["The data is only shared with the persons you are working with."]
-        },{
-            "element" : "Google Tables",
-            "why" : "To save and share with others.",
-            "class" : "",
-            "moreInfo" : ["Data is saved in a Google Table."]
+            "element": "User information",
+            "why": "To keep track who changed what. In that way others can see what you have edited.",
+            "class": "",
+            "moreInfo": [
+                "The data is only shared with the persons you are working with. (In the case of Google Table: same google Table, in the case of central database: depends on your own choices within the app )"
+            ]
+        },
+        {
+            "element": "Google Tables",
+            "why": "To save and share with others. Alteratively you can you login to my central database (future feature)",
+            "class": "",
+            "moreInfo": [
+                "Data is saved in a Google Table. You can create a google Table of your own via the app and share it with users or use my main database, if I give you access to."
+            ]
         }
     ],
-    "notShared" : [
+    "notShared": [
         {
-            "element" : "Social networks",
-            "why" : "We <b>do not</b> share your personal information with them.",
-            "class" : "",
-            "moreInfo" : ["<i>Social networks</i> are companies that connect individuals around common interests and facilitate sharing."]
-        },{
-            "element" : "Foreign Google Tables",
-            "why" : "I got not nothing to do with that.",
-            "class" : "",
-            "moreInfo" : ["Only configured Google Tables are read/changed."]
+            "element": "Social networks",
+            "why": "We <b>do not</b> share your personal information with them.",
+            "class": "",
+            "moreInfo": [
+                "<i>Social networks</i> are companies that connect individuals around common interests and facilitate sharing."
+            ]
+        },
+        {
+            "element": "Foreign Google Tables",
+            "why": "I got not nothing to do with that.",
+            "class": "",
+            "moreInfo": [
+                "Only configured Google Tables are read/changed."
+            ]
         }
     ]
 }

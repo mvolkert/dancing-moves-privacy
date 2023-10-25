@@ -1,46 +1,62 @@
 {
-    "pageOptions" : {
-        "headerImage" : "https://www.svgrepo.com/show/398195/woman-dancing-medium-light-skin-tone.svg",
-        "headerColor" : "#F3F8FE",
-        "headline" : "Terms of Service",
-        "subHeading" : "This app should be a nice place to work with",
-        "footerLink" : "Full Terms of Service",
-        "footerLinkURL" : "",
-        "collectionSectionHeader" : "Allowed to do",
-        "doNotCollectSectionHeader" : "Not Allowed do",
-        "sharedSectionHeader" : "TODO",
-        "dataNotSharedSectionHeader" : "TODO"
+    "pageOptions": {
+        "headerImage": "https://www.svgrepo.com/show/398195/woman-dancing-medium-light-skin-tone.svg",
+        "headerColor": "#F3F8FE",
+        "headline": "Terms of Service",
+        "subHeading": "This app should be a nice place to work with",
+        "footerLink": "Full Terms of Service",
+        "footerLinkURL": "",
+        "collectionSectionHeader": "Allowed to do",
+        "doNotCollectSectionHeader": "Not Allowed do",
+        "sharedSectionHeader": "Can do",
+        "dataNotSharedSectionHeader": "Should not do"
     },
-    "collected" : [
+    "collected": [
         {
-            "element" : "Sharing Dancing Moves",
-            "why" : "Main thing to do",
-            "class" : "",
-            "moreInfo" : [""]
+            "element": "Sharing Dancing Moves",
+            "why": "Main thing to do",
+            "class": "",
+            "moreInfo": [
+                ""
+            ]
         }
     ],
-    "notCollected" : [
-         {
-            "element" : "Sharing Porn/Violence",
-            "why" : "That's not the sprit of this app.",
-            "class" : "",
-            "moreInfo" : [""]
+    "notCollected": [
+        {
+            "element": "Sharing Porn/Violence",
+            "why": "That's not the sprit of this app.",
+            "class": "",
+            "moreInfo": [
+                ""
+            ]
         }
     ],
-    "shared" : [
+    "shared": [
         {
-            "element" : "TODO",
-            "why" : "TODO",
-            "class" : "",
-            "moreInfo" : [""]
+            "element": "Sharing Events",
+            "why": "To meet knew people",
+            "class": "",
+            "moreInfo": [
+                ""
+            ]
         }
     ],
-    "notShared" : [
+    "notShared": [
         {
-            "element" : "TODO",
-            "why" : "TODO",
-            "class" : "",
-            "moreInfo" : [""]
+            "element": "Sharing videos public",
+            "why": "Dancers make a living from teaching and its in your best interest not to undermine that. So restrict the sharing to the extend, the teachers are happy with. The app offers possibility to only share things within an organisation and create course specific secrets to encrypt video links against.",
+            "class": "",
+            "moreInfo": [
+                ""
+            ]
+        },
+        {
+            "element": "Disclose personal infos",
+            "why": "Don't share personal infos about other persons public.",
+            "class": "",
+            "moreInfo": [
+                ""
+            ]
         }
     ]
 }
